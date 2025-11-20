@@ -60,6 +60,11 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=bekichemeda&theme=onestar&margin-w=15&margin-h=15" />
 </p>
+---
+## 🧩 Language Usage Banner
+<p align="center">
+  <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekichemeda&layout=normal&theme=radical&hide_border=true" />
+</p>
 
 ---
 
