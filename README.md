@@ -1,95 +1,111 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Beknan</h1>
-<h3 align="center">Machine Learning & AI Enthusiast | Python Developer | Bot Builder</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bekichemeda&label=Profile+Views&color=blue&style=flat" />
-</p>
+<h1 align="center">👋 Hi, I'm Beknan Chemeda</h1>
+<h3 align="center">ML Engineer | AI Enthusiast | Software Developer | Student</h3>
 
 ---
 
-<!-- ABOUT -->
-### 👨‍💻 About Me  
-- 🌱 Currently building **AI/NLP models & Telegram Bots**  
-- 🔭 Exploring **Machine Learning, Deep Learning, and Data Engineering**  
-- ⚡ Passionate about **automation, reasoning models, and intelligent systems**  
-- 💬 Ask me about **Python, ML, Bots, MongoDB, Neural Networks**  
-- 📫 Email: **bekichemeda@gmail.com**  
-- 🚀 GitHub: **https://github.com/bekichemeda**
-
----
-
-<!-- SOCIALS -->
-### 🤝 Connect With Me
+## 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/bekichemeda" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://t.me/BEK_I" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40"/>
-</a>
-
-<a href="mailto:bekichemeda@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40"/>
-</a>
+<a href="https://github.com/bekichemeda"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="mailto:bekichemeda@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://www.linkedin.com/in/bekichemeda"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://t.me/BEK_I"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" height="40" alt="telegram"/></a>
 </p>
 
 ---
 
-<!-- SKILLS -->
-### 🧠 Languages & Tools  
-<p align="left">
+## 🚀 About Me
+- 🎓 Student passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Engineering**
+- 🧠 Currently building **HayyuuGPT-1**, an Afaan Oromoo LLM from scratch  
+- 🤖 Creating Telegram bots:  
+  - MCQ Generator Bot  
+  - SMM Panel Bot  
+  - POS Tagger Bot  
+  - Anime Recommender Bot  
+- 🐍 Love building real-world projects with **Python**, **Telebot**, **BERT**, **BiLSTM**, and **MongoDB**
+- 🌱 Currently learning **Deep Learning, NLP, Recommender Systems, Cybersecurity**
+- 💡 Believe in the power of building → learning  
+- 🔥 Consistency is my superpower  
 
-<!-- Programming -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>  
+---
 
-<!-- ML / AI -->
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+## 🛠 Tech Stack
+**Languages:**  
+`Python` `JavaScript` `HTML` `CSS` `SQL` `PHP`
 
-<!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+**AI & ML:**  
+`TensorFlow` `PyTorch` `Scikit-learn` `Transformers`  
+`NLP` `Seq2Seq` `BERT` `CRF`  
 
-<!-- Tools -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+**Databases:**  
+`MongoDB` `TinyDB` `MySQL`  
 
+**Tools & Platforms:**  
+`VS Code` `Linux` `Git & GitHub` `Docker` `Kaggle`  
+
+**Cloud & APIs:**  
+`Gemini API` `Peakerr API` `Telegram Bot API`  
+
+---
+
+## 📊 GitHub Stats (2025)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bekichemeda&show_icons=true&theme=github_dark&count_private=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bekichemeda&theme=github-dark-blue" height="180"/>
 </p>
 
-
-<!-- TROPHIES -->
-### 🏆 GitHub Achievements  
+### ⏳ **This Year’s Contribution Graph**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bekichemeda&theme=gruvbox&no-frame=true&margin-w=10" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bekichemeda&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-<!-- STATS -->
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bekichemeda&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekichemeda&layout=compact&theme=tokyonight" height="160"/>
-</p>
+## 📂 Featured Projects
+### 🔥 HayyuuGPT-1 (Afaan Oromoo LLM)
+- Building a Large Language Model from scratch  
+- Dataset cleaning, tokenization, training pipeline  
+- Research + Engineering + Modelling  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bekichemeda&theme=tokyonight" height="160"/>
-</p>
+### 🤖 Telegram Bots  
+- **MCQ Generator Bot** – Gemini API + Telebot  
+- **SMM Panel Bot** – Peakerr API + Coins system  
+- **POS Tagger Bot** – CRF model deployed  
+- **Anime Recommender Bot** – ML-based personal recommendations  
 
----
-
-<!-- QUOTE -->
-### 🧩 Daily Inspiration
-<p align="center">
-  <em>"Consistency beats motivation. Small progress every day builds unstoppable momentum."</em>
-</p>
+### 🧪 ML Projects  
+- Amharic Sentiment Analysis (BiLSTM)  
+- Tweet Sentiment Classification using BERT  
+- Recommender System (Movie, Anime, etc.)  
 
 ---
 
-<!-- FOOTER -->
-<p align="center">✨ Thanks for visiting — keep building, keep learning! ✨</p>
+## 🏆 Achievements
+- Built and deployed multiple ML-powered Telegram bots  
+- Created NLP models for Amharic and Afaan Oromoo  
+- Deployed production-level CRF POS Tagger  
+- Consistently learning and shipping projects  
+
+---
+
+## 🎯 2025 Goals
+- 📚 Publish HayyuuGPT-1 base version  
+- 🚀 Build 10 ML/AI open-source projects  
+- 💼 Create a portfolio website  
+- 🧠 Master Deep Learning & LLM architectures  
+- 🌍 Teach ML, Python & Web development at Bright Codes Academy  
+
+---
+
+## 📈 Roadmap
+- Finish HayyuuGPT-1 tokenizer  
+- Train a medium-sized LM  
+- Improve MCQ Generator Bot  
+- Fully migrate all bots to MongoDB  
+- Build complete SaaS-level SMM Bot  
+
+---
+
+## ✨ Fun Facts
+- I build to learn.  
+- I love AI, NLP, bots, and automation.  
+- I believe small daily progress compounds to massive results.  
