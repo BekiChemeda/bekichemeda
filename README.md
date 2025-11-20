@@ -1,83 +1,95 @@
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Beknan</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Python & AI Enthusiast</h3>
+<h3 align="center">Machine Learning & AI Enthusiast | Python Developer | Bot Builder</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bekichemeda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bekichemeda&label=Profile+Views&color=blue&style=flat" />
 </p>
-
-- 🔭 I’m currently working on **AI, NLP, and Telegram Bot Projects**
-
-- 👨‍💻 All of my projects are available at **https://github.com/bekichemeda**
-
-- 💬 Ask me about **Machine Learning, Deep Learning, Python, NLP, Telegram Bots**
-
-- 📫 How to reach me: **bekichemeda@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<!-- ABOUT -->
+### 👨‍💻 About Me  
+- 🌱 Currently building **AI/NLP models & Telegram Bots**  
+- 🔭 Exploring **Machine Learning, Deep Learning, and Data Engineering**  
+- ⚡ Passionate about **automation, reasoning models, and intelligent systems**  
+- 💬 Ask me about **Python, ML, Bots, MongoDB, Neural Networks**  
+- 📫 Email: **bekichemeda@gmail.com**  
+- 🚀 GitHub: **https://github.com/bekichemeda**
+
+---
+
+<!-- SOCIALS -->
+### 🤝 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/bekichemeda" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/> 
+</a>
+
+<a href="https://t.me/bekichemeda" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40"/>
+</a>
+
+<a href="mailto:bekichemeda@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40"/>
+</a>
+</p>
+
+---
+
+<!-- SKILLS -->
+### 🧠 Languages & Tools  
 <p align="left">
 
-<a href="https://linkedin.com/in/bekichemeda" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+<!-- Programming -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>  
 
-<a href="https://t.me/bek_i" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" height="30" width="40" />
-</a>
+<!-- ML / AI -->
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 
+<!-- Databases -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+
+<!-- Tools -->
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+
+</p>
+
+
+<!-- TROPHIES -->
+### 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bekichemeda&theme=gruvbox&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- STATS -->
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bekichemeda&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekichemeda&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
-<p align="left"> 
-
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> 
-</a>
-
-<a href="https://www.tensorflow.org" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bekichemeda&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bekichemeda&show_icons=true&locale=en&layout=compact" />
+<!-- QUOTE -->
+### 🧩 Daily Inspiration
+<p align="center">
+  <em>"Consistency beats motivation. Small progress every day builds unstoppable momentum."</em>
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekichemeda&show_icons=true&locale=en" />
-</p>
+---
+
+<!-- FOOTER -->
+<p align="center">✨ Thanks for visiting — keep building, keep learning! ✨</p>
