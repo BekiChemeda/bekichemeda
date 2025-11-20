@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Beknan Chemeda</h1>
-<h3 align="center">ML Engineer | AI Enthusiast | Software Developer | Student</h3>
+<h1 align="center">👋 Hi, I'm Beknan Chemeda (bekichemeda)</h1>
+<h3 align="center">AI & ML Enthusiast | Software Developer | Telegram Bot Builder</h3>
 
 ---
 
@@ -14,80 +14,74 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Student passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Engineering**
-- 🧠 Currently building **HayyuuGPT-1**, an Afaan Oromoo LLM from scratch  
-- 🤖 Creating Telegram bots:  
-  - MCQ Generator Bot  
-  - SMM Panel Bot  
-  - POS Tagger Bot  
-  - Anime Recommender Bot  
-- 🐍 Love building real-world projects with **Python**, **Telebot**, **BERT**, **BiLSTM**, and **MongoDB**
-- 🌱 Currently learning **Deep Learning, NLP, Recommender Systems, Cybersecurity**
-- 💡 Believe in the power of building → learning  
-- 🔥 Consistency is my superpower  
+- Student passionate about **AI**, **Machine Learning**, **NLP**, and **Software Engineering**
+- Building **HayyuuGPT-1**, an Afaan Oromoo language model  
+- Create AI-powered **Telegram bots** with real users  
+- Skilled in **Python**, **NLP**, **Transformers**, **MongoDB**, **Telebot**  
+- Currently learning **Deep Learning**, **Cybersecurity**, **Recommender Systems**  
+- Believe in building projects to master concepts  
 
 ---
 
 ## 🛠 Tech Stack
 **Languages:**  
-`Python` `JavaScript` `HTML` `CSS` `SQL` `PHP`
+`Python` `JavaScript` `PHP` `HTML` `CSS` `SQL`
 
 **AI & ML:**  
-`TensorFlow` `PyTorch` `Scikit-learn` `Transformers`  
-`NLP` `Seq2Seq` `BERT` `CRF`  
+`TensorFlow` `PyTorch` `Scikit-learn` `Transformers` `CRF`  
 
 **Databases:**  
-`MongoDB` `TinyDB` `MySQL`  
+`MongoDB` `MySQL` `TinyDB`
 
-**Tools & Platforms:**  
-`VS Code` `Linux` `Git & GitHub` `Docker` `Kaggle`  
+**Tools:**  
+`Git` `VS Code` `Linux` `Docker` `Kaggle`  
 
-**Cloud & APIs:**  
-`Gemini API` `Peakerr API` `Telegram Bot API`  
+**APIs & Integrations:**  
+`Telegram Bot API`  `Gemini API`
 
 ---
 
-## 📊 GitHub Stats (2025)
+## 📊 GitHub Stats (Updated 2025)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bekichemeda&show_icons=true&theme=github_dark&count_private=true" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekichemeda&theme=github-dark-blue" height="180"/>
 </p>
 
-### ⏳ **This Year’s Contribution Graph**
+---
+
+## 📅 This Year’s Contribution Graph (2025)
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bekichemeda&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 📂 Featured Projects
-### 🔥 HayyuuGPT-1 (Afaan Oromoo LLM)
-- Building a Large Language Model from scratch  
-- Dataset cleaning, tokenization, training pipeline  
-- Research + Engineering + Modelling  
-
-### 🤖 Telegram Bots  
-- **MCQ Generator Bot** – Gemini API + Telebot  
-- **SMM Panel Bot** – Peakerr API + Coins system  
-- **POS Tagger Bot** – CRF model deployed  
-
-### 🧪 ML Projects  
-- Amharic Sentiment Analysis (BiLSTM)  
-- Tweet Sentiment Classification using BERT  
-
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bekichemeda&theme=onestar&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
-## 🏆 Achievements
-- Built and deployed multiple ML-powered Telegram bots  
-- Created NLP models for Amharic and Afaan Oromoo  
-- Deployed production-level CRF POS Tagger  
-- Consistently learning and shipping projects  
+## 📂 Highlighted Projects
 
+
+### 🤖 Telegram Bots  
+- **MCQ Generator Bot** – NLP-based learning system  
+- **SMM Panel Bot** – Peakerr API + Coins system  
+- **POS Tagger Bot** – Amharic CRF model deployed  
+- **Anime Recommender Bot** – User rating–based recommendation
+
+---
+
+## 🎯 My Goals
+- Master advanced ML & LLM architecture  
+- Launch AI products with real users  
+- Become a strong engineer through building projects  
 
 ---
 
 ## ✨ Fun Facts
-- I build to learn.  
-- I love AI, NLP, bots, and automation.  
-- I believe small daily progress compounds to massive results.  
+- I learn by building.  
+- I love bots, NLP, automation, and teaching others.  
+- I enjoy making real-world tools with ML + Python.  
