@@ -70,12 +70,11 @@
 - **MCQ Generator Bot** – Gemini API + Telebot  
 - **SMM Panel Bot** – Peakerr API + Coins system  
 - **POS Tagger Bot** – CRF model deployed  
-- **Anime Recommender Bot** – ML-based personal recommendations  
 
 ### 🧪 ML Projects  
 - Amharic Sentiment Analysis (BiLSTM)  
 - Tweet Sentiment Classification using BERT  
-- Recommender System (Movie, Anime, etc.)  
+
 
 ---
 
@@ -85,23 +84,6 @@
 - Deployed production-level CRF POS Tagger  
 - Consistently learning and shipping projects  
 
----
-
-## 🎯 2025 Goals
-- 📚 Publish HayyuuGPT-1 base version  
-- 🚀 Build 10 ML/AI open-source projects  
-- 💼 Create a portfolio website  
-- 🧠 Master Deep Learning & LLM architectures  
-- 🌍 Teach ML, Python & Web development at Bright Codes Academy  
-
----
-
-## 📈 Roadmap
-- Finish HayyuuGPT-1 tokenizer  
-- Train a medium-sized LM  
-- Improve MCQ Generator Bot  
-- Fully migrate all bots to MongoDB  
-- Build complete SaaS-level SMM Bot  
 
 ---
 
