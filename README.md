@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/> 
 </a>
 
-<a href="https://t.me/bekichemeda" target="_blank">
+<a href="https://t.me/BEK_I" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40"/>
 </a>
 
