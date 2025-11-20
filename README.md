@@ -60,7 +60,9 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=bekichemeda&theme=onestar&margin-w=15&margin-h=15" />
 </p>
+
 ---
+
 ## 🧩 Languages I Use in My Repositories
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekichemeda&layout=donut&theme=github_dark&hide_border=true" />
