@@ -46,8 +46,20 @@
 <img src="https://github-readme-stats.vercel.app/api?username=bekichemeda&show_icons=true&theme=github_dark&count_private=true" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekichemeda&theme=github-dark-blue" height="180"/>
 </p>
+---
+
+## 🔥 GitHub Streak Status  
+<p align="center">
+  <!-- Streak badge -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekichemeda&theme=github-dark-blue" height="180"/>
+
+  <!-- Start date -->
+  <br/>
+  <b>🔥 Streak Started:</b> January 2025  
+</p>
 
 ---
+
 
 ## 📅 This Year’s Contribution Graph (2025)
 <p align="center">
