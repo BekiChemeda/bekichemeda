@@ -14,11 +14,8 @@
 ---
 
 ## 🚀 About Me
-- Student passionate about **AI**, **Machine Learning**, **NLP**, and **Software Engineering**
-- Building **HayyuuGPT-1**, an Afaan Oromoo language model  
-- Create AI-powered **Telegram bots** with real users  
-- Skilled in **Python**, **NLP**, **Transformers**, **MongoDB**, **Telebot**  
-- Currently learning **Deep Learning**, **Cybersecurity**, **Recommender Systems**  
+- Student passionate about **AI**, **Machine Learning**, **NLP**, and **Software Engineering** 
+- Create AI-powered **Telegram bots** with real users   
 - Believe in building projects to master concepts  
 
 ---
@@ -31,7 +28,7 @@
 `TensorFlow` `PyTorch` `Scikit-learn` `Transformers` `CRF`  
 
 **Databases:**  
-`MongoDB` `MySQL` `TinyDB`
+`MongoDB` `MySQL`
 
 **Tools:**  
 `Git` `VS Code` `Linux` `Docker` `Kaggle`  
