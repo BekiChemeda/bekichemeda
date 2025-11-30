@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Beknan Chemeda (bekichemeda)</h1>
-<h3 align="center">AI & ML Enthusiast | Software Developer | Telegram Bot Builder</h3>
+<h3 align="center">AI Researcher | Software Developer | Telegram Bot Builder</h3>
 
 ---
 
