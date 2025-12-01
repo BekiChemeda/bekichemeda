@@ -75,8 +75,6 @@
 - **MCQ Generator Bot** – NLP-based learning system  
 - **SMM Panel Bot** – Peakerr API + Coins system  
 - **POS Tagger Bot** – Amharic CRF model deployed  
-- **Anime Recommender Bot** – User rating–based recommendation
-
 ---
 
 ## 🎯 My Goals
