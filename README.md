@@ -34,7 +34,7 @@
 `Git` `VS Code` `Linux` `Docker` `Kaggle`  
 
 **APIs & Integrations:**  
-`Telegram Bot API`  `Gemini API`
+`Telegram Bot API`  `Gemini API` `OPEN AI API`
 
 ---
 
