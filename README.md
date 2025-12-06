@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Beknan Chemeda (bekichemeda)</h1>
+<h1 align="center">👋 Hello, I'm Beknan Chemeda (bekichemeda)</h1>
 <h3 align="center">AI Researcher | Software Developer | Telegram Bot Developer</h3>
 
 ---
