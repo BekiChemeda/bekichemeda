@@ -68,13 +68,11 @@
 
 ---
 
-## 📂 Highlighted Projects
-
-
-### 🤖 Telegram Bots  
-- **MCQ Generator Bot** – NLP-based learning system  
-- **SMM Panel Bot** – Peakerr API + Coins system  
-- **POS Tagger Bot** – Amharic CRF model deployed  
+## Highlighted Repositories 
+- [Machine Learning](https://github.com/BekiChemeda/Machine-Learning) - Collection of Machine Learning projects with explanation (good for those who are learning ML)
+- [Movie Recommendation System](https://github.com/BekiChemeda/Movie-Recommender) - Different types of Recommendation Systems with explanation 
+- [Wikipedia Scraper](https://github.com/BekiChemeda/Wikiscraper) - pip installable library which can ideally download all pages of specific language 
+ 
 ---
 
 ## 🎯 My Goals
@@ -86,5 +84,5 @@
 
 ## ✨ Fun Facts
 - I learn by building.  
-- I love bots, NLP, automation, and teaching others.  
+- I love building Telegram bots, training ML Models (specially NLP), building automation tools, Doing Statistical projects, and teaching others.  
 - I enjoy making real-world tools with ML + Python.  
