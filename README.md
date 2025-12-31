@@ -69,6 +69,7 @@
 ---
 
 ## Highlighted Repositories 
+- [AI Powered Data Explorer](https://github.com/BekiChemeda/ai-powered-data-explorer) - 
 - [Machine Learning](https://github.com/BekiChemeda/Machine-Learning) - Collection of Machine Learning projects with explanation (good for those who are learning ML)
 - [Movie Recommendation System](https://github.com/BekiChemeda/Movie-Recommender) - Different types of Recommendation Systems with explanation 
 - [Wikipedia Scraper](https://github.com/BekiChemeda/Wikiscraper) - pip installable library which can ideally download all pages of specific language 
