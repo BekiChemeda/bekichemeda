@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Beknan Chemeda (bekichemeda)</h1>
-<h3 align="center">AI Researcher | Software Developer | Telegram Bot Developer</h3>
+<h3 align="center">ML Engineer | Software Developer | Telegram Bot Developer</h3>
 
 ---
 
@@ -69,7 +69,7 @@
 ---
 
 ## Highlighted Repositories 
-- [AI Powered Data Explorer](https://github.com/BekiChemeda/ai-powered-data-explorer) - 
+- [AI Powered Data Explorer](https://github.com/BekiChemeda/ai-powered-data-explorer) - AI powered Web app which simplifies repetitive steps of data exploration and cleaning 
 - [Machine Learning](https://github.com/BekiChemeda/Machine-Learning) - Collection of Machine Learning projects with explanation (good for those who are learning ML)
 - [Movie Recommendation System](https://github.com/BekiChemeda/Movie-Recommender) - Different types of Recommendation Systems with explanation 
 - [Wikipedia Scraper](https://github.com/BekiChemeda/Wikiscraper) - pip installable library which can ideally download all pages of specific language 
