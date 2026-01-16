@@ -47,7 +47,7 @@
 ---
 
 
-## 📅 This Year’s Contribution Graph (2025)
+## 📅 This Year’s Contribution Graph (2026)
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bekichemeda&theme=react-dark&hide_border=true&area=true" />
 </p>
