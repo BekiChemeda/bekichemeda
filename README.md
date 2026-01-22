@@ -1,89 +1,84 @@
-<h1 align="center">👋 Hello, I'm Beknan Chemeda (bekichemeda)</h1>
-<h3 align="center">ML Engineer | Software Developer | Telegram Bot Developer</h3>
+# Beknan Chemeda
+
+Machine Learning Engineer | Backend Developer
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://github.com/bekichemeda"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<a href="mailto:bekichemeda@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-<a href="https://www.linkedin.com/in/bekichemeda"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://t.me/BEK_I"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" height="40" alt="telegram"/></a>
-</p>
+## Profile
+- Student engineer focused on **Machine Learning**, **NLP**, and **backend systems**
+- Build and deploy **production-oriented ML systems**
+- Develop **Telegram bots** and **API-driven applications** with real users
+- Strong bias toward learning through implementation, not tutorials
 
 ---
 
-## 🚀 About Me
-- Student passionate about **AI**, **Machine Learning**, **NLP**, and **Software Engineering** 
-- Create AI-powered **Telegram bots** with real users   
-- Believe in building projects to master concepts  
+## Core Skills
+
+### Programming Languages
+- Python
+- JavaScript
+- SQL
+- PHP
+
+### Machine Learning & NLP
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Hugging Face Transformers
+- CRF
+- Classical and deep NLP pipelines
+
+### Backend & APIs
+- FastAPI
+- RESTful API design
+- Telegram Bot API
+- OpenAI API
+- Gemini API
+
+### Databases
+- PostgreSQL
+- MongoDB
+- MySQL
+
+### Infrastructure & Tools
+- Git
+- Linux
+- Docker
+- VS Code
+- Kaggle
 
 ---
 
-## 🛠 Tech Stack
-**Languages:**  
-`Python` `JavaScript` `PHP` `HTML` `CSS` `SQL`
+## Selected Projects
 
-**AI & ML:**  
-`TensorFlow` `PyTorch` `Scikit-learn` `Transformers` `CRF`  
+- **AI Powered Data Explorer**  
+  AI-driven web application for automating data exploration and cleaning  
+  https://github.com/BekiChemeda/ai-powered-data-explorer
 
-**Databases:**  
-`MongoDB` `MySQL`
+- **Machine Learning Projects Collection**  
+  End-to-end ML projects with clear implementations and explanations  
+  https://github.com/BekiChemeda/Machine-Learning
 
-**Tools:**  
-`Git` `VS Code` `Linux` `Docker` `Kaggle`  
+- **Movie Recommendation Systems**  
+  Multiple recommendation approaches with comparative analysis  
+  https://github.com/BekiChemeda/Movie-Recommender
 
-**APIs & Integrations:**  
-`Telegram Bot API`  `Gemini API` `OPEN AI API`
-
----
-
-## 📊 GitHub Stats (Updated 2025)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bekichemeda&show_icons=true&theme=github_dark&count_private=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bekichemeda&theme=github-dark-blue" height="180"/>
-</p>
+- **Wikipedia Scraper**  
+  Installable Python package for large-scale multilingual Wikipedia scraping  
+  https://github.com/BekiChemeda/Wikiscraper
 
 ---
 
-
-## 📅 This Year’s Contribution Graph (2026)
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bekichemeda&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bekichemeda&theme=onestar&margin-w=15&margin-h=15" />
-</p>
+## Engineering Focus (2026)
+- Advanced NLP and LLM architectures
+- ML systems integrated with FastAPI backends
+- Scalable data pipelines using PostgreSQL
+- Shipping usable products, not demos
 
 ---
 
-## 🧩 Languages I Use in My Repositories
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekichemeda&layout=donut&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## Highlighted Repositories 
-- [AI Powered Data Explorer](https://github.com/BekiChemeda/ai-powered-data-explorer) - AI powered Web app which simplifies repetitive steps of data exploration and cleaning 
-- [Machine Learning](https://github.com/BekiChemeda/Machine-Learning) - Collection of Machine Learning projects with explanation (good for those who are learning ML)
-- [Movie Recommendation System](https://github.com/BekiChemeda/Movie-Recommender) - Different types of Recommendation Systems with explanation 
-- [Wikipedia Scraper](https://github.com/BekiChemeda/Wikiscraper) - pip installable library which can ideally download all pages of specific language 
- 
----
-
-## 🎯 My Goals
-- Master advanced ML & LLM architecture  
-- Launch AI products with real users  
-- Become a strong engineer through building projects  
-
----
-
-## ✨ Fun Facts
-- I learn by building.  
-- I love building Telegram bots, training ML Models (specially NLP), building automation tools, Doing Statistical projects, and teaching others.  
-- I enjoy making real-world tools with ML + Python.  
+## Contact
+- GitHub: https://github.com/bekichemeda
+- LinkedIn: https://www.linkedin.com/in/bekichemeda
+- Email: bekichemeda@gmail.com
+- Telegram: https://t.me/BEK_I
