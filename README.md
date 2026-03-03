@@ -1,11 +1,11 @@
 # Beknan Chemeda
 
-Machine Learning Engineer | Backend Developer
+Backend Developer | Machine Learning Enthusiast 
 
 ---
 
 ## Profile
-- Student engineer focused on **Machine Learning**, **NLP**, and **backend systems**
+- Backend engineer focused on **Machine Learning**, **NLP**, and **backend systems**
 - Build and deploy **production-oriented ML systems**
 - Develop **Telegram bots** and **API-driven applications** with real users
 - Strong bias toward learning through implementation, not tutorials
@@ -31,9 +31,7 @@ Machine Learning Engineer | Backend Developer
 ### Backend & APIs
 - FastAPI
 - RESTful API design
-- Telegram Bot API
 - OpenAI API
-- Gemini API
 
 ### Databases
 - PostgreSQL
