@@ -1,82 +1,125 @@
+
 # Beknan Chemeda
 
-Backend Developer | Machine Learning Enthusiast 
+### Backend Developer | Machine Learning and NLP Engineer
+
+I build backend systems, APIs, automation tools, and machine-learning applications, with a particular interest in NLP and African-language technologies.
+
+My current focus is developing reliable software that connects machine-learning models with production backend infrastructure.
 
 ---
 
-## Profile
-- Backend engineer focused on **Machine Learning**, **NLP**, and **backend systems**
-- Build and deploy **production-oriented ML systems**
-- Develop **Telegram bots** and **API-driven applications** with real users
-- Strong bias toward learning through implementation, not tutorials
+## Technical Skills
 
----
+### Languages
 
-## Core Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Programming Languages
-- Python
-- JavaScript
-- SQL
-- PHP
+### Backend Development
 
-### Machine Learning & NLP
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- Hugging Face Transformers
-- CRF
-- Classical and deep NLP pipelines
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
-### Backend & APIs
-- FastAPI
-- RESTful API design
-- OpenAI API
+### Machine Learning and NLP
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+- Natural language processing
+- Text classification and sentiment analysis
+- Transformer-based models
+- BiLSTM and CRF models
+- Recommendation systems
+- Model evaluation and API integration
 
 ### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
 
-### Infrastructure & Tools
-- Git
-- Linux
-- Docker
-- VS Code
-- Kaggle
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Infrastructure and Development Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## Selected Projects
 
-- **AI Powered Data Explorer**  
-  AI-driven web application for automating data exploration and cleaning  
-  https://github.com/BekiChemeda/ai-powered-data-explorer
+### [AI-Powered Data Explorer](https://github.com/BekiChemeda/ai-powered-data-explorer)
 
-- **Machine Learning Projects Collection**  
-  End-to-end ML projects with clear implementations and explanations  
-  https://github.com/BekiChemeda/Machine-Learning
+An AI-assisted application for data exploration, preprocessing, cleaning, and analysis.
 
-- **Movie Recommendation Systems**  
-  Multiple recommendation approaches with comparative analysis  
-  https://github.com/BekiChemeda/Movie-Recommender
+### [Machine Learning Projects](https://github.com/BekiChemeda/Machine-Learning)
 
-- **Wikipedia Scraper**  
-  Installable Python package for large-scale multilingual Wikipedia scraping  
-  https://github.com/BekiChemeda/Wikiscraper
+A collection of machine-learning implementations covering data preparation, model training, evaluation, and result interpretation.
+
+### [Movie Recommendation System](https://github.com/BekiChemeda/Movie-Recommender)
+
+A recommendation-system project implementing and comparing multiple approaches for suggesting movies based on user and item data.
+
+### [WikiScraper](https://github.com/BekiChemeda/Wikiscraper)
+
+An installable Python package for extracting multilingual content from Wikipedia for data collection and NLP workflows.
 
 ---
 
-## Engineering Focus (2026)
-- Advanced NLP and LLM architectures
-- ML systems integrated with FastAPI backends
-- Scalable data pipelines using PostgreSQL
-- Shipping usable products, not demos
+## Current Engineering Focus
+
+- Production-oriented FastAPI backend systems
+- PostgreSQL database design and optimization
+- Authentication, authorization, and API security
+- Redis caching and background processing
+- Deployment using Linux, Docker, and cloud infrastructure
+- NLP and LLM applications for African languages
+- Integration of machine-learning models into real products
 
 ---
 
 ## Contact
-- GitHub: https://github.com/bekichemeda
-- LinkedIn: https://www.linkedin.com/in/bekichemeda
-- Email: bekichemeda@gmail.com
-- Telegram: https://t.me/BEK_I
+
+- **LinkedIn:** [linkedin.com/in/bekichemeda](https://www.linkedin.com/in/bekichemeda)
+- **Telegram:** [@BEK_I](https://t.me/BEK_I)
+- **Email:** [bekichemeda@gmail.com](mailto:bekichemeda@gmail.com)
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BekiChemeda&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Beknan Chemeda's GitHub statistics"
+    height="170"
+  />
+</p>
+
+## Language Distribution
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekiChemeda&layout=compact&hide_border=true&langs_count=10"
+    alt="Programming language percentage distribution across public repositories"
+    height="190"
+  />
+</p>
+
+## Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=BekiChemeda&hide_border=true"
+    alt="Beknan Chemeda's GitHub contribution streak"
+  />
+</p>
