@@ -95,31 +95,11 @@ An installable Python package for extracting multilingual content from Wikipedia
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BekiChemeda&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Beknan Chemeda's GitHub statistics"
-    height="170"
-  />
-</p>
-
-## Language Distribution
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekiChemeda&layout=compact&hide_border=true&langs_count=10"
-    alt="Programming language percentage distribution across public repositories"
-    height="190"
-  />
-</p>
-
 ## Contribution Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=BekiChemeda&hide_border=true"
+    src="https://streak-stats.demolab.com?user=bekichemeda&hide_border=true"
     alt="Beknan Chemeda's GitHub contribution streak"
   />
 </p>
