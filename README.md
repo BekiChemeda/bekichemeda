@@ -1,5 +1,5 @@
 
-# Beknan Chemeda
+# Beknan Chemeda 
 
 ### Backend Developer | Machine Learning and NLP Engineer
 
@@ -18,7 +18,7 @@ My current focus is developing reliable software that connects machine-learning 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### Backend Development
+### Backend Developer
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
