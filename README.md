@@ -63,7 +63,7 @@ An AI-assisted application for data exploration, preprocessing, cleaning, and an
 
 ### [Machine Learning Projects](https://github.com/BekiChemeda/Machine-Learning)
 
-A collection of machine-learning implementations covering data preparation, model training, evaluation, and result interpretation.
+A collection of machine-learning related implementations covering data preparation, model training, evaluation, and result interpretation.
 
 ### [Movie Recommendation System](https://github.com/BekiChemeda/Movie-Recommender)
 
