@@ -3,7 +3,7 @@
 
 ### Backend Developer | Machine Learning and NLP Engineer
 
-I build backend systems, APIs, automation tools, and machine-learning applications, with a particular interest in NLP and African-language technologies.
+I build backend systems, APIs and machine-learning applications, with a particular interest in NLP and African-language technologies.
 
 My current focus is developing reliable software that connects machine-learning models with production backend infrastructure.
 
